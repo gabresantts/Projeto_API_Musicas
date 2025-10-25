@@ -1,0 +1,70 @@
+:root {
+    --primary-color: #0C4A60;
+    --background-color: #F0F0F0; 
+    --text-color: #333333;
+    --card-background: #FFFFFF;
+    --shadow-color: rgba(0, 0, 0, 0.2);
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    
+}
+
+.jumbotron {
+    background-color: #E0E0E0; 
+    color: var(--text-color);
+    box-shadow: 0 4px 15px var(--shadow-color);
+}
+
+h1 {
+    color: var(--primary-color);
+}
+
+.results-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 20px;
+    justify-items: center;
+}
+
+.music-card {
+    background-color: #F8F8F8; 
+    padding: 15px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+}
+
+.music-card:hover {
+    transform: scale(1.05);
+}
+
+.album-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.status-text {
+    font-style: italic;
+    color: #666;
+}
+
+.error-text {
+    color: #d9534f;
+}
+
+footer {
+    margin-top: 40px;
+    padding: 20px;
+    color: #777; 
+    font-size: 14px;
+}
