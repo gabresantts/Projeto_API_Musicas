@@ -42,3 +42,9 @@ O projeto foi publicado (deploy) utilizando o **GitHub Pages**, um serviço grat
 * **📚 Repositório no GitHub:** [https://github.com/gabresantts/Projeto_API_Musicas]
 
 ---
+
+## 👤 Autor
+
+LinkedIn: [linkedin.com/in/gabresants]
+
+Contato: [gabresantts@gmail.com]
