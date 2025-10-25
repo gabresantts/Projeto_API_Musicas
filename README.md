@@ -38,10 +38,7 @@ O aplicativo foi construído com as tecnologias básicas da web (HTML, CSS e Jav
 
 O projeto foi publicado (deploy) utilizando o **GitHub Pages**, um serviço gratuito de hospedagem de sites estáticos.
 
-* **🔗 Link do Projeto (GitHub Pages):** [Insira o Link do GitHub Pages aqui]
+* **🔗 Link do Projeto (GitHub Pages):** [https://gabresantts.github.io/Projeto_API_Musicas/]
 * **📚 Repositório no GitHub:** [Insira o Link do seu Repositório aqui]
 
 ---
-
-3.  **Abra o arquivo:**
-    Simplesmente abra o arquivo `index.html` no seu navegador de preferência. Não é necessário nenhum servidor local, pois o projeto é estático.
